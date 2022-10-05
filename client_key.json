@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sodium-replica-364511",
+  "private_key_id": "9e926fe2cd293eda06bb1073257d1275053ac416",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDd/ksdmNMqHPt6\ni7neYNVqdo20HIkGlCDQQ8qdy2jPowJULNXGZJUg8m2QL2MsEU2cYI9oYrjFptlR\n6Y0dx/mC52SkBBKTIMUffme2jHj1beOQFAcejuzVj/SJGAbpQlb8bu2PI96BXv4u\n9s6143dMEipkSIMjQE2yF4yzvJFxbOW7lLEJACDInSCLnMVCAl+5CAEIX5azKsz7\nWe18lUZ5zvBtlRuvRXn4QETN4pbPtKnGtTa2vA5sV4jN8UqiW4jr5fK7xfBogFPb\nWzlSEufUvPVGO1zTg78btB1ZBbsY6J44X+OAQtx7osxkiw0QU9jIzfSDiNd7wg1t\nJYRJcbeJAgMBAAECggEASbnqLYazXtGoTW85SBsl1clQz4gIlBg++5wAHz7ObOMo\n41bOmqiOBJau/4tVZu3KNky1ZAghcHc0xqkHtmPTQH/j4zr9BkMEZKzA+hYWGACq\nao/UO3hhPJ4mKx/BL9fZ9tVKbVcOzy2CwosyZKMKXEfOL2cLsnnpM+PxVUIjlaTk\nHtlZZEULYIAGpbEHq9W7ClUUXbdWWfx/g4Mr6E4XQQcfAqbF4+FQAT/SD6t3uFUY\nfBt/OqmIMYfOmT1xFmVS3iAZotLqWEia1B8aJNkwMWp1UxcPb4vM5YicmbL/Br/Z\n/vIQ9ubm9Uu1e/lF4733FKF98Zuyh5PIanD/H77/bwKBgQDwntNEErPkQM1iW+57\n+4jSVNuJZQ6O6PXq4J/Rtsxbv1od+qiJeK+9ef7gjsqpz4gFnVAG1g+UMCXU88xZ\ngBFy4l5KmjhcvFNDKY0IXC7rAODAEfkmlabFeUEvl31mOOcT0L8/DGi0azbejIhP\nwwgXVO/ViZRrvNMa2V6XMiz33wKBgQDsLq5JVZwYzcD37Ar55x+kJkazFYtJFlML\n0rmxH5Rt8lx/lBO8uubqyWEykiYKiWgU0a6uoEZyNoBgER5AZG06H3FA4zEUobnw\npyZuN1i6a2uLlOx9+CYLqtE7lGhTQUDi7o6wbSZJNNV+Q5MZREnDnxvbgolGl9ny\nc3x6vxDdlwKBgQCOXAl2fvI7mzNofCeO5vS+LEJu+YExgBbuzdMAinxB0+aHUiOg\noeyn16O6TAEPkp9RYw9T3BX/gLUBVvSSBzlLlS5gSPoLs8g3NkAgsBl6JFzUhk24\nTFYNA35Tn/crIYNlr91WegsAo2YlKVQEjMketLvoxKsxSthDTFOwdJkyVQKBgCUm\nzqmgetZ3/yPAkJVw4sxKbRKcj/VmOpgAhM803X9SAXTcESK977b9CHoQ/UTpCmND\n/IthkNNEeXsjFjQg2AGtkn4Xfs/1BK+zS1tI/38LiLZDLdQ+5ZUuQI1zsdluyUsp\nJW7hLIWVdwPOk2QFFulbrOEhroBZQKJfwjP4vClvAoGAFtAwve7gRGGCnN8CJ+l0\ni+33YUNaQZXbGt+IVvFF+YOKjeot4J5HHr/+TyhU4wCSFfUlW9PnQ1L0FmgQCFgu\nKQ4OrdlDAl5+HRmh9hVbteJ1vNplAAvO3lI5G6IjGrkdae/KwJEpDAItjiREWxNs\n2mGvTZdhET6FHSSutisQj7c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cueillit@sodium-replica-364511.iam.gserviceaccount.com",
+  "client_id": "105761769218639646242",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cueillit%40sodium-replica-364511.iam.gserviceaccount.com"
+}
